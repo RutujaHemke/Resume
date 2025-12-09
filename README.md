@@ -1,6 +1,6 @@
-# dumyRepo
+#Resume
 
-<h1 align="center">Hi 👋, I'm Rutuja Hemke</h1>
+<h1 align="center">Hello 👋, I'm Rutuja Hemke</h1>
 <h3 align="center"> Frontend Developer | React • JavaScript • HTML • CSS </h3>
 
 ---
@@ -18,6 +18,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rutuja07/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:rutujahemke07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/RutujaHemke"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="tel:+917972300112"><img src="https://img.shields.io/badge/Call%20Me%20-25D366?style=for-the-badge&logo=phone&logoColor=white" /></a>
 </p>
 
 ---
@@ -57,13 +59,6 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-
----
-
-## 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RutujaHemke&theme=react-dark&hide_border=true)
-
-
 ---
 
 ## 💼 Featured Projects
@@ -78,7 +73,4 @@
 More coming soon… 🚀
 
 ---
-
-## ❤️ Support
-If you like my work, consider giving a ⭐ to my repositories!
 
