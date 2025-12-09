@@ -25,7 +25,6 @@
 ---
 
 ## 🛠️ Tech Stack 
-// (Aesthetic Button Style)
 
 ### **Languages**
 <p>
